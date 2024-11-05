@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zoey Zhang"
-  pronouns         : "she/her"   # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "A sociology researcher"
   location         : "Earth"
   employer         : "Red Brick University"
